@@ -1,0 +1,91 @@
+/* Set a smaller width for the entire date picker container */
+.react-datepicker {
+  width: 250px; /* Set a smaller width */
+  font-family: Arial, sans-serif; /* Optional: Set a custom font */
+  border: none; /* Remove border around the whole date picker */
+  border-radius: 8px; /* Optional: Add border radius for rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow for a modern look */
+}
+
+/* Set the width of the calendar dropdown container */
+.react-datepicker__month-container {
+  width: 100%; /* Match the width of the date picker */
+}
+
+/* Customize the header with green color and increase the font size */
+.react-datepicker__header {
+  background-color: var(--color-brand--2); /* Header background color (green) */
+  color: #fff; /* Header text color */
+  font-size: 1.6rem; /* Bigger font size for the month name */
+  border-bottom: none; /* Remove the border below the header */
+}
+
+/* Customize the arrow colors to black */
+.react-datepicker__navigation--previous,
+.react-datepicker__navigation--next {
+  border-color: black; /* Arrow border color */
+}
+
+.react-datepicker__navigation--previous::before,
+.react-datepicker__navigation--next::before {
+  color: black; /* Arrow icon color */
+}
+
+/* Make the font size bigger for days and month */
+.react-datepicker__day,
+.react-datepicker__day-name,
+.react-datepicker__time-name {
+  font-size: 1.4rem; /* Bigger font size for days */
+}
+
+.react-datepicker__month-name {
+  font-size: 1.6rem; /* Bigger font size for month name */
+}
+
+/* Increase the size of the day squares and numbers */
+.react-datepicker__day {
+  width: 2.8rem; /* Adjust the width of day squares */
+  height: 2.8rem; /* Adjust the height of day squares */
+  line-height: 2.8rem; /* Center the text vertically */
+  border-radius: 50%; /* Make the day squares circular */
+  text-align: center; /* Center the text horizontally */
+  font-size: 1.4rem; /* Increase font size of day numbers */
+  background-color: transparent; /* Remove background color */
+}
+
+.react-datepicker__day--selected {
+  background-color: var(
+    --color-brand--1
+  ); /* Selected day background color (orange) */
+  color: #fff; /* Selected day text color */
+}
+
+.react-datepicker__day:hover {
+  background-color: var(--color-light--1); /* Day hover background color */
+}
+
+/* Customize the month and year dropdown */
+.react-datepicker__month-dropdown,
+.react-datepicker__year-dropdown {
+  background-color: var(--color-dark--1); /* Dropdown background color */
+  color: var(--color-light--1); /* Dropdown text color */
+}
+
+/* Customize the calendar container */
+.react-datepicker__triangle {
+  display: none; /* Hide the triangle indicator */
+}
+
+.react-datepicker__month {
+  width: 100%; /* Ensure the month container takes full width */
+}
+
+/* Customize the input field */
+.react-datepicker__input-container input {
+  width: 100%; /* Make input field full width */
+  padding: 10px; /* Optional: Add padding */
+  border: none; /* Remove border */
+  border-radius: 4px; /* Optional: Add border radius */
+  background-color: var(--color-light--2); /* Input background color */
+  color: var(--color-dark--0); /* Input text color */
+}

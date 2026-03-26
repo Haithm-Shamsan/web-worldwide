@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "7516",
+      "cityName": "Estamariu",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-30T06:04:43.026Z",
+      "notes": "",
+      "position": {
+        "lat": "42.407234661551875",
+        "lng": "1.5161132812500002"
+      }
+    },
+    {
+      "id": "3e61",
+      "cityName": "Nohant-Vic",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-30T06:14:03.279Z",
+      "notes": "",
+      "position": {
+        "lat": "46.619261036171515",
+        "lng": "1.9775390625000002"
+      }
+    },
+    {
+      "id": "8e86",
+      "cityName": "Cervera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-31T00:39:48.083Z",
+      "notes": "",
+      "position": {
+        "lat": "41.72213058512578",
+        "lng": "1.2963867187500002"
+      }
+    },
+    {
+      "id": "0fd0",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-31T01:30:15.821Z",
+      "notes": "",
+      "position": {
+        "lat": "48.86832824998009",
+        "lng": "2.4169921875000004"
+      }
+    },
+    {
+      "id": "b84e",
+      "cityName": "Rosny-sous-Bois",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-31T01:30:25.648Z",
+      "notes": "hh",
+      "position": {
+        "lat": "48.879167148960214",
+        "lng": "2.4829101562500004"
+      }
+    },
+    {
+      "id": "79ad",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-31T01:30:39.647Z",
+      "notes": "",
+      "position": {
+        "lat": "48.87194147722911",
+        "lng": "2.3510742187500004"
+      }
+    },
+    {
+      "id": "fc41",
+      "cityName": "Champigny-sur-Marne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-31T01:30:43.007Z",
+      "notes": "",
+      "position": {
+        "lat": "48.817715668996435",
+        "lng": "2.4938964843750004"
+      }
+    },
+    {
+      "id": "8296",
+      "cityName": "Noisy-le-Grand",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-31T01:33:39.862Z",
+      "notes": "r",
+      "position": {
+        "lat": "48.850258199721495",
+        "lng": "2.5268554687500004"
+      }
+    },
+    {
+      "id": "5f53",
+      "cityName": "Saint-Martin-du-Tertre",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-31T01:34:39.961Z",
+      "notes": "",
+      "position": {
+        "lat": "49.088257784724675",
+        "lng": "2.3291015625000004"
+      }
+    }
+  ]
+}
